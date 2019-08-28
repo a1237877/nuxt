@@ -1,5 +1,6 @@
 <template>
   <div>
+    <p>lsw 博客</p>
     <nuxt/>
   </div>
 </template>
